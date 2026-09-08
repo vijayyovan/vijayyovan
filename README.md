@@ -125,8 +125,8 @@ Microsoft Azure AI Engineer Associate (AI-102) — In Progress
 
 ## 💡 My Engineering Philosophy
 
-**Understand the big picture. Break it into smaller pieces. Master the fundamentals.
-Then build the solution one ingredient at a time.**
+**See the big picture. Break it down. Understand the fundamentals.
+Stay focused. Build one piece at a time. Then connect the pieces.**
 
 I approach technology much like following a recipe:
 
