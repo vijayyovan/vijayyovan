@@ -123,6 +123,26 @@ Advanced Kubernetes and cloud-native architecture
 Certified Kubernetes Administrator (CKA) — In Progress
 Microsoft Azure AI Engineer Associate (AI-102) — In Progress
 
+## 💡 My Engineering Philosophy
+
+**Understand the big picture. Break it into smaller pieces. Master the fundamentals.
+Then build the solution one ingredient at a time.**
+
+I approach technology much like following a recipe:
+
+1. **See the big picture** — understand the system, its purpose and how the pieces interact.
+2. **Break it into segments** — application, data, infrastructure, networking, security,
+   integration and operations.
+3. **Understand the fundamentals** — programming, Linux, networking, databases,
+   distributed systems and troubleshooting.
+4. **Add one ingredient at a time** — learn, build, test and understand each component
+   before adding the next.
+5. **Put everything together** — understand how the individual pieces behave as one
+   production system.
+
+Technologies change. **Strong fundamentals and systematic thinking make learning
+the next technology much easier.**
+
 ## 🌱 Beyond Engineering
 
 🥾 **Trekking** — I enjoy getting outdoors, exploring new places and spending time in nature.
