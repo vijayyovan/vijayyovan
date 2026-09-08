@@ -120,6 +120,18 @@ Advanced Kubernetes and cloud-native architecture
 Certified Kubernetes Administrator (CKA) — In Progress
 Microsoft Azure AI Engineer Associate (AI-102) — In Progress
 
+## 🌱 Beyond Engineering
+
+🥾 **Trekking** — I enjoy getting outdoors, exploring new places and spending time in nature.
+
+👨‍👧 **Family** — Outside technology, some of my most valued time is spent with my daughter whenever we get the opportunity to be together.
+
+📚 **Continuous Learning** — I enjoy learning new technologies through university courses, technical conferences and engineering communities.
+
+☸️ **Cloud-Native Community** — For the past two years, I've regularly followed CNCF livestreams, talks and community sessions.
+
+🎓 **Learning & Conferences** — I attend conferences mostly online and regularly learn from engineering sources such as InfoQ, CNCF and university lectures.
+
 📫 Connect With Me
 
 💼 LinkedIn: linkedin.com/in/vijaysoundaram
