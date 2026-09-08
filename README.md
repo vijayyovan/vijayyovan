@@ -1,5 +1,4 @@
 # Hi, I'm Vijay Soundaram 👋
-
 **You can call me VJ** · (he/him)
 
 
