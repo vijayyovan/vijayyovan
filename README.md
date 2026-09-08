@@ -21,21 +21,24 @@ such as incident triage, log analysis, troubleshooting and root cause analysis.
 
 ## 🔄 My Engineering Evolution
 
-Every generation of technology builds on the previous one.
-Understanding those underlying layers still matters when debugging modern systems.
+Every generation of technology builds on the previous one. Understanding those underlying layers still matters when debugging modern systems.
 
 ```mermaid
 flowchart LR
-    A["Linux / Unix<br/>Monolithic Systems"]
-    B["SOA & Middleware<br/>WebLogic · WebSphere · JBoss"]
-    C["JMS / IBM MQ<br/>F5 LTM"]
-    D["Microservices<br/>Kafka · Distributed Systems"]
-    E["DevOps & CI/CD"]
-    F["AWS · Azure · GCP"]
-    G["Kubernetes<br/>GitOps"]
-    H["Platform Engineering<br/>SRE"]
-    I["Data Science<br/>ML Foundations"]
-    J["AI / AIOps<br/>Agentic Systems"]
+    A["Linux / Unix & Monoliths"] --> B["SOA & Middleware"]
+    B --> C["JMS / IBM MQ & F5 LTM"]
+    C --> D["Microservices & Kafka"]
+    D --> E["DevOps & CI/CD"]
+    E --> F["AWS / Azure / GCP"]
+    F --> G["Kubernetes & GitOps"]
+    G --> H["Platform Engineering & SRE"]
+    H --> I["Data Science & ML"]
+    I --> J["AI / AIOps & Agentic Systems"]
+```
+
+---
+
+## 🛠️ Tech Stack
 
     A --> B --> C --> D --> E --> F --> G --> H --> I --> J
 
