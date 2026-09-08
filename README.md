@@ -109,14 +109,17 @@ Exploring AI-assisted operational troubleshooting, incident triage,
 log analysis, consumer-lag analysis and RCA using operational data.
 
 📚 Currently Learning
+
 Data Science & Machine Learning foundations
 Applied LLM engineering
 Agentic AI systems
 AI for Platform Engineering and SRE
 Advanced Kubernetes and cloud-native architecture
+
 📜 Certifications
 Certified Kubernetes Administrator (CKA) — In Progress
 Microsoft Azure AI Engineer Associate (AI-102) — In Progress
+
 📫 Connect With Me
 
 💼 LinkedIn: linkedin.com/in/vijaysoundaram
