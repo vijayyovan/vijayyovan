@@ -149,11 +149,18 @@ the next technology much easier.**
 
 👨‍👧 **Family** — Outside technology, some of my most valued time is spent with my daughter whenever we get the opportunity to be together.
 
-📚 **Continuous Learning** — I enjoy learning new technologies through university courses, technical conferences and engineering communities.
+📚 **Continuous Learning** — Learning is a regular part of my routine. I learn through
+university courses, technical conferences, engineering communities and hands-on experimentation.
 
-☸️ **Cloud-Native Community** — For the past two years, I've regularly followed CNCF livestreams, talks and community sessions.
+☸️ **Cloud-Native Community** — For the past two years, I've regularly followed
+CNCF livestreams, conference talks and community sessions.
 
-🎓 **Learning & Conferences** — I attend conferences mostly online and regularly learn from engineering sources such as InfoQ, CNCF and university lectures.
+🎓 **Technical Learning** — I regularly learn from **O'Reilly live and recorded events,
+InfoQ talks and articles, CNCF sessions, university courses and technical conferences**,
+with most conferences attended online.
+
+🔬 **Current Interests** — Distributed systems, Data Science, Machine Learning,
+AI engineering, agentic systems, Platform Engineering and SRE.
 
 📫 Connect With Me
 
