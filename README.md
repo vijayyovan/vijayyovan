@@ -1,21 +1,24 @@
 # Hi, I'm Vijay Soundaram 👋
 
-### Senior Platform · SRE · Cloud · AI/AIOps Engineer
-
-### Platform · SRE · Cloud · Application Engineering · AI/AIOps
+### Senior Platform · SRE · Cloud · DevSecOps · Application Engineering · AI/AIOps
 
 I’m an engineer with 17+ years of experience spanning application development,
-infrastructure, platform engineering and production operations, with
-**Linux/Unix as the foundation throughout my career**.
+infrastructure, platform engineering, security/IAM and production operations,
+with **Linux/Unix as the foundation throughout my career**.
 
 My journey began with **Linux/Unix production environments, Java/J2EE,
 enterprise middleware, SOA, JMS/MQ, F5 LTM and 24x7 production support**,
 including application architecture, integration, performance tuning,
 incident management and cross-layer troubleshooting.
 
+Along the way, I worked with **enterprise identity and access management**
+technologies including **Oracle Access Manager (OAM), CA SiteMinder,
+LDAP/Active Directory, SSO and SAML**, later extending into cloud IAM,
+OAuth 2.0 and Kubernetes RBAC.
+
 That foundation evolved through **Java/Spring Boot, microservices and Kafka**
-into **DevOps, CI/CD, AWS/Azure/GCP, Kubernetes, GitOps, Platform Engineering
-and SRE**.
+into **DevOps, CI/CD, AWS/Azure/GCP, Kubernetes, GitOps, Platform Engineering,
+SRE and DevSecOps**.
 
 I'm now extending that experience into **Python, Data Science & ML foundations,
 AI development and AIOps**, exploring how LLMs and agentic systems can help
