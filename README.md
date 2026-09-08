@@ -1,6 +1,6 @@
 # Hi, I'm Vijay Soundaram 👋
 
-**You can call me VJ** · he/him
+**You can call me VJ** · (he/him)
 
 
 ### Senior Platform · SRE · Cloud · DevSecOps · Application Engineering · AI/AIOps
