@@ -2,17 +2,24 @@
 
 ### Senior Platform · SRE · Cloud · AI/AIOps Engineer
 
+### Platform · SRE · Cloud · Application Engineering · AI/AIOps
+
 I’m an engineer with 17+ years of experience spanning application development,
-platform engineering and production operations.
+infrastructure, platform engineering and production operations, with
+**Linux/Unix as the foundation throughout my career**.
 
-My journey has evolved from **Linux/Unix, Java/J2EE, SOA, enterprise middleware,
-JMS/MQ, F5 LTM and WLST/Jython automation** through **Java/Spring Boot,
-microservices, Kafka, DevOps and cloud**, to **Kubernetes, GitOps, Platform
-Engineering and SRE**.
+My journey began with **Linux/Unix production environments, Java/J2EE,
+enterprise middleware, SOA, JMS/MQ, F5 LTM and 24x7 production support**,
+including application architecture, integration, performance tuning,
+incident management and cross-layer troubleshooting.
 
-I'm now expanding into **Python, Data Science and Machine Learning foundations,
-AI development and AIOps**, exploring how LLMs and agentic systems can be applied
-to real engineering and operational problems.
+That foundation evolved through **Java/Spring Boot, microservices and Kafka**
+into **DevOps, CI/CD, AWS/Azure/GCP, Kubernetes, GitOps, Platform Engineering
+and SRE**.
+
+I'm now extending that experience into **Python, Data Science & ML foundations,
+AI development and AIOps**, exploring how LLMs and agentic systems can help
+with incident triage, troubleshooting, RCA and operational automation.
 
 📍 Denver, CO  
 🔎 Open to Senior Platform / SRE / DevOps opportunities
